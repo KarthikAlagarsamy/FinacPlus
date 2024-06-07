@@ -1,10 +1,10 @@
-# Classification of Financial Statements using Random Forest and TF-IDF vectorization
+# Classification of Financial Statements using Random Forest classifier and TF-IDF vectorization
 
 This report presents an analysis of table classification from financial statements using natural language processing (NLP) and machine learning techniques. The objective is to classify financial statements into predefined categories such as Income Statement, Balance Sheets, Cash Flow, Notes, and Others.
 
 ## Highlights:
 
-- Successfully implemented table classification solution for financial statements using Random Forest and TF-IDF vectorization.
+- Successfully implemented table classification solution for financial statements using Random Forest classifier and TF-IDF vectorization.
 - Achieved accuracy of 94.5% on the test dataset and cross-validation accuracy of 93.6%.
 - Designed a scalable solution capable of processing and classifying large volumes of financial statements with high accuracy.
 
